@@ -18,7 +18,7 @@
 - Unconditioned augmentation statement.
 
 ### YANG File
-- [Firmware_1.0.0-tsp.210303.1255+yang.1](./Firmware_1.0.0-tsp.210303.1255+yang.1.zip)
+- [Firmware_1.0.0-tsp.210304.1620+yang.1](./Firmware_1.0.0-tsp.210304.1620+yang.1.zip)
 
 ### JSON Schema
 - to be provided
