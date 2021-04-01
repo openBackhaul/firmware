@@ -26,6 +26,7 @@
 ### YANG File
 - [Firmware_1.0.0-tsp.210304.1620+yang.1](./Firmware_1.0.0-tsp.210304.1620+yang.1.zip)
 - [Firmware_1.0.0-tsp.210316.1510+yang.1](./Firmware_1.0.0-tsp.210316.1510+yang.1.zip)
+- [Firmware_1.0.0-tsp.210401.1700+yang.1](./Firmware_1.0.0-tsp.210401.1700+yang.1.zip)
 
 ### JSON Schema
 - to be provided
