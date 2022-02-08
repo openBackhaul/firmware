@@ -6,33 +6,19 @@
 - 1.0.0-tsp.d.t : Model for the Transport SDN Introduction at Telefonica
 
 ### UML
-- [Firmware_1.0.0-tsp.210304.1620](./Firmware_1.0.0-tsp.210304.1620.zip)
-- [Firmware_1.0.0-tsp.210316.1510](./Firmware_1.0.0-tsp.210316.1510.zip)
 - [Firmware_1.0.0-tsp.210401.1700](./Firmware_1.0.0-tsp.210401.1700.zip)
 
 ### Overview 
-- [Firmware_1.0.0-tsp.210304.1620+overview.1](./Firmware_1.0.0-tsp.210304.1620+overview.1.png)
-- [Firmware_1.0.0-tsp.210316.1510+overview.1](./Firmware_1.0.0-tsp.210316.1510+overview.1.png)
 - [Firmware_1.0.0-tsp.210401.1700+overview.1](./Firmware_1.0.0-tsp.210401.1700+overview.1.png)
 
 ### GenDoc Export
-- [Firmware_1.0.0-tsp.210304.1620+gendoc.1](./Firmware_1.0.0-tsp.210304.1620+gendoc.1.docx)
-- [Firmware_1.0.0-tsp.210316.1510+gendoc.1](./Firmware_1.0.0-tsp.210316.1510+gendoc.1.docx)
 - [Firmware_1.0.0-tsp.210401.1700+gendoc.1](./Firmware_1.0.0-tsp.210401.1700+gendoc.1.docx)
 
 ### Augmentation Condition
 - Unconditioned augmentation statement.
 
 ### YANG File
-- [Firmware_1.0.0-tsp.210304.1620+yang.1](./Firmware_1.0.0-tsp.210304.1620+yang.1.zip)
-- [Firmware_1.0.0-tsp.210316.1510+yang.1](./Firmware_1.0.0-tsp.210316.1510+yang.1.zip)
 - [Firmware_1.0.0-tsp.210401.1700+yang.1](./Firmware_1.0.0-tsp.210401.1700+yang.1.zip)
-
-### JSON Schema
-- to be provided
-
-### Interface Simulator
-- to be provided
 
 ### Interface Validator
 - to be provided
@@ -47,4 +33,4 @@
 - [firmware/issues](../../issues)
 
 ### Comments
-./.
+- Potential expansion by Back-Up-And-Restore function under discussion ([requirements](./BackUpAndRestore/BackUpAndRestoreRequirements.md)).
