@@ -1,17 +1,17 @@
 # Requirements to a back-up-and-restore function
 
-Goal:
+#Goal:
 
 Our goal is to support the Firmware upgrade process through the SDN Controller. The firmware upgrade process includes the Backup and restore configuration steps. We need extension to the ONF model to support the backup/restore operations. 
 
 
-Who’s it for: 
+#Who’s it for: 
 
 Back office operations team  - who regularly performs firmware upgrade to specific components on the Microwave device. 
 Incident Management team - who troubleshoot the device and may need to restore the configuration from backup. 
 
 
-Requirements
+#Requirements
 
 Requirement1: The model shall support backup operation to save the entire configuration of the device. This includes the configuration of interfaces, users and system level configurations. 
 Requirement 2: The backup operation status shall be reported back to the user.
