@@ -13,7 +13,7 @@ Incident Management team - who troubleshoot the device and may need to restore t
 
 # Requirements
 
-Requirement1: The model shall support backup operation to save the entire configuration of the device. This includes the configuration of interfaces, users and system level configurations. 
+Requirement 1: The model shall support backup operation to save the entire configuration of the device. This includes the configuration of interfaces, users and system level configurations. 
 
 Requirement 2: The backup operation status shall be reported back to the user.
 
