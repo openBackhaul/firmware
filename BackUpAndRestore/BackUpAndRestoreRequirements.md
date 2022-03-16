@@ -37,3 +37,12 @@ IncidentManagement team - who troubleshoot the device and may need to restore th
 11. The model also support the reset / reboot of the specific component as it may be required for the user to reset the component once again after firmware upgrade.
 
 12. Both hard and soft resets of the firmware component shall be supported by the model.
+
+
+### Proposed Solution
+
+1. The model supports backup operation to save the entire configuration of the device. Content of the stored configuration file is vendor specific and outside the scope of defining the management interface.
+
+2. A status attribute for the backup operation has been defined. Attribute value change notifications have been activated on this status attribute.
+
+
