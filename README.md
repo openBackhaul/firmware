@@ -3,22 +3,26 @@
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
-- 1.0.0-tsp.d.t : Model for the Transport SDN Introduction at Telefonica
+- 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
 
 ### UML
-- [Firmware_1.0.0-tsp.210401.1700](./Firmware_1.0.0-tsp.210401.1700.zip)
+- [Firmware_1.0.0-tsp.210401.1700](./Firmware_1.0.0-tsp.210401.1700.zip) (deprecated)
+- [Firmware_1.0.0-tsi.231005.1745](./Firmware_1.0.0-tsi.231005.1745.zip)
 
 ### Overview 
-- [Firmware_1.0.0-tsp.210401.1700+overview.1](./Firmware_1.0.0-tsp.210401.1700+overview.1.png)
+- [Firmware_1.0.0-tsp.210401.1700+overview.1](./Firmware_1.0.0-tsp.210401.1700+overview.1.png) (deprecated)
+- [Firmware_1.0.0-tsi.231005.1745+overview.1](./Firmware_1.0.0-tsi.231005.1745+overview.1.png)
 
 ### GenDoc Export
-- [Firmware_1.0.0-tsp.210401.1700+gendoc.1](./Firmware_1.0.0-tsp.210401.1700+gendoc.1.docx)
+- [Firmware_1.0.0-tsp.210401.1700+gendoc.1](./Firmware_1.0.0-tsp.210401.1700+gendoc.1.docx) (deprecated)
+- [Firmware_1.0.0-tsi.231005.1745+gendoc.1](./Firmware_1.0.0-tsi.231005.1745+gendoc.1.docx)
 
 ### Augmentation Condition
 - Unconditioned augmentation statement.
 
 ### YANG File
-- [Firmware_1.0.0-tsp.210401.1700+yang.1](./Firmware_1.0.0-tsp.210401.1700+yang.1.zip)
+- [Firmware_1.0.0-tsp.210401.1700+yang.1](./Firmware_1.0.0-tsp.210401.1700+yang.1.zip) (deprecated)
+- [Firmware_1.0.0-tsi.231005.1745+yang.1](./Firmware_1.0.0-tsi.231005.1745+yang.1.zip)
 
 ### Interface Validator
 - to be provided
